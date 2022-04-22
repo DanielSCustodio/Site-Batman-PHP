@@ -33,7 +33,7 @@
 				<h3><i class="fa fa-superpowers" aria-hidden="true"></i></h3>
 				<h4>Peak Human Conditioning</h4>
 				<p> Through intense training, specialized diet, and biofeedback treatments, The Batman represented the absolute pinnacle of human physical prowess. His physical attributes is at the natural limits far above than that of an Olympic level athlete that has ever competed. His strength, speed, stamina, agility, reflexes, senses, healing and endurance are at the peak of human potential and perfection. Batman began his physical and mental conditioning when he was 10 and then intense physical training and weight lifting at age 12.
-				 </p>
+				</p>
 			</div>
 
 			<div class="w33 left box-especialidade">

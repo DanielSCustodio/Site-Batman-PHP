@@ -34,9 +34,9 @@
 					</div>
 					<ul>
 						<li><a href="<?php echo INCLUDE_PATH;?>">Home</a></li>
-						<li><a href="<?php echo INCLUDE_PATH;?>comics">Comics </a></li>
-						<li><a href="<?php echo INCLUDE_PATH;?>movies">Movies </a></li>
-						<li><a href="<?php echo INCLUDE_PATH;?>contact">Contact </a></li>
+						<li><a href="<?php echo INCLUDE_PATH;?>comics">Comics</a></li>
+						<li><a href="<?php echo INCLUDE_PATH;?>movies">Movies</a></li>
+						<li><a href="<?php echo INCLUDE_PATH;?>contact">Contact</a></li>
 					</ul>
 				</nav>
 			</div>

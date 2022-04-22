@@ -1,0 +1,400 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+/**Boot CSS**/
+img{
+	width:100%;
+	max-width:500px;  
+}
+
+
+.center{
+	max-width: 1280px;
+	padding: 0 2%;
+	margin: 0 auto;
+}
+
+.w33{
+	width: 33.3%;
+	padding: 10px;
+}
+
+.w50{
+	
+	width: 50%;
+	padding: 0 10%;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.clear{
+	clear: both;
+}
+
+/**Estilização do Site**/
+
+header{
+	background: #545454;
+	padding: 15px 0;
+
+}
+
+.mobile{
+	display: none;
+}
+
+nav.desktop ul{
+	list-style-type: none;
+	position: relative;
+	top: 10px;
+
+}
+
+nav.desktop li{
+	font-weight: bold;
+	font-size: 15px;
+	padding: 0 10px;
+	text-transform: uppercase;
+	display: inline-block;
+
+}
+
+nav.desktop a{
+	color: #FFD700;
+	text-decoration: none;
+	font-family: 'Orbitron', sans-serif;
+}
+
+section.banner-principal{
+	width: 100%;
+	height: 600px;
+	background-image: url('../img/batForm.jpg');
+	background-size: cover;
+	position: relative;
+}
+
+.overlay{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(54,54,54,0.8);
+	z-index: 1;
+}
+
+section.banner-principal form{
+	width: 93%;
+	max-width: 600px;
+	z-index: 2;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	-ms-transform:translate(-50%,-50%);
+}
+
+section.banner-principal form h2{
+	color: white;
+	font-weight: 300px;
+	font-size: 35px;
+	text-align: center;
+}
+
+section.banner-principal form h4{
+	color: white;
+	font-weight: 300px;
+	font-size: 25px;
+	text-align: center;
+}
+
+section.banner-principal form input[type=email]{
+	width: 100%;
+	height: 65px;
+	margin-top: 10px;
+	background-color:#DCDCDC;
+	color: #1C1C1C;
+	font-size: 44px;
+	padding-left: 10px;
+}
+
+section.banner-principal form input[type=submit]{
+	width: 100%;
+	height: 65px;
+	margin-top: 10px;
+	background-color:#FFD700;
+	color: #000000;
+	font-weight: bold;
+	cursor: pointer;
+	font-size: 22px;
+	border:0;	
+}
+
+
+section.descricao-autor{
+	padding: 0px 0;
+	
+}
+
+
+section.descricao-autor h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #000000;
+}
+
+section.descricao-autor p{
+	font-size: 20px;
+	color:#4F4F4F;
+	margin-top: 10px;
+}
+
+
+section.especialidades{
+	background:#1C1C1C; 
+	padding: 40px 0;
+	text-align: center;
+
+}
+section.especialidades h2{
+	font-size: 50px;
+	font-weight: bold;
+	color: #A9A9A9;
+}
+
+.box-especialidade{
+	margin: 40px 0;
+	padding: 0 30px;
+	text-align: center;
+
+}
+
+.box-especialidade h3{
+	text-align: center;
+	color: #FFD700;
+	font-size: 40px;
+}
+
+.box-especialidade h4{
+	font-weight: bold;
+	color: #A9A9A9;
+	font-size: 20px;
+}
+
+.box-especialidade p{
+	
+	color: #ffffff ;
+	font-size: 18px;
+	text-align: justify;
+}
+
+section.extras{
+	border-top: 1px solid  #FFD700;
+	border-bottom:  1px solid  #FFD700;
+	background: #545454;  /*Mudar Mudar Mudar */
+	padding: 20px 0;
+}
+
+
+.depoimento-cointainer, .servico-container{
+	padding: 0 50px;
+
+}
+
+section.extras .title{
+	color: #000000;
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 15px;
+}
+
+.depoimento-single{
+	padding: 15px 0;
+	border-bottom: 1px solid 	#C0C0C0;
+}
+
+p.depoimento-descricao{
+	font-size: 20px;
+	color: white;
+}
+
+p.nome-autor{
+	font-size: 20px;
+	color:#FFD700 ;
+	font-weight: bold;
+	margin-top: 5px;
+
+}
+
+.servicos ul{
+	margin: 20px 0;
+	list-style-position: inside; /*coloa o marcador da lista dentro do container */
+}
+
+.servicos li{
+	margin-bottom: 23px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+h2.members{
+	margin-bottom: 55px !important;
+}
+
+footer{
+	background: #000000;
+	padding: 20px 0;
+}
+
+footer.fixed{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+footer p{
+	color:  #FFD700;
+	text-align: center;
+	font-style: italic;
+	font-size: 12px;
+
+}
+
+
+
+section.error-404{
+	background:#363636;
+	
+}
+
+section.error-404 h1{
+ text-align: center;
+ font-size: 35px;
+ color: white;
+}
+
+section.error-404 img{
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+
+}
+
+section.error-404 p{
+ margin-top: 455px;
+ text-align: center;
+ font-size: 15px;
+ color: #FFD700;
+}
+
+section.error-404 p a{
+	color: #FFD700;
+}
+
+   /*R E S P O N S I V O  */
+
+
+
+
+
+@media screen and (max-width: 642px ){
+	nav.desktop{
+		display: none;        /*o elemento desaparece*/
+	}
+
+	nav.mobile{
+		display: block;
+	}
+
+	nav.mobile ul{
+		top:70px ;
+		z-index: 3;
+		position: absolute;
+		left: 0px;
+		display: none;
+		text-align: center;
+		width: 100%;
+		background: white;
+
+	}
+
+	nav.mobile li{
+		font-weight: bold;
+		width: 100%;
+		display: block;
+		background: #000000;
+		border-bottom: 1px solid #ccc;
+		font-size: 20px;
+		padding: 4px;
+	}
+
+	nav.mobile li a{
+		display: block;
+		color: #FFD700;
+		text-decoration: none;
+	}
+
+	.botao-menu-mobile{
+		font-size: 24px;
+		cursor: pointer;
+		color: #FFD700;
+	}
+
+	
+
+}
+
+@media screen and (max-width: 768px){  /* Quando chegar em 768 vai ocorrer a mudança de layout */
+	img{
+		float: none !important;
+		display: block;
+		margin: 0 auto;
+		width: 100% !important;
+	}
+
+	.w50{
+		width: 100%;
+		
+		/* Não usei o padding como recomendado pelo professor */
+	}
+
+	.w33{
+		width: 100%;
+		/* Não usei o padding como recomendado pelo professor */
+		
+	}
+
+	.box-especialidade{
+		padding: 20px 20px;
+		margin: 0;
+	}
+
+	.servicos li{
+		font-size: 18px;
+	}
+
+	h2.members{
+	margin-bottom:30px !important ;
+	margin-top: 20px;
+}
+
+}
+
+

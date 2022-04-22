@@ -1,0 +1,1004 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Danki Code - Os Melhores Cursos de Programação do Brasil</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="author" content="Danki Code - Guilherme Grillo">
+<meta name="description" content="Danki Code - Mais de 60 mil alunos - Programação Web, Games e Marketing Digital." />
+<meta name="keywords" content="desenvolvimento web,seo,marketing digital,programação,cursos online,web design,front-end,web developer,back-end,php" />
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#483079">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+<link href="https://cursos.dankicode.com/app/Views/public/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://cursos.dankicode.com/app/Views/public/css/style.css" rel="stylesheet">
+<link rel='manifest' href='/manifest.json'>
+<link rel="icon" href="https://cursos.dankicode.com/app/Views/public/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93023897-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<base base="https://cursos.dankicode.com/" />
+<header>
+<div class="center">
+<div class="logo-desktop">
+<a href="https://cursos.dankicode.com/"></a>
+</div>
+<div class="grp-header">
+<nav class="desktop">
+<ul>
+<li><a href="https://cursos.dankicode.com/home">Home</a></li>
+<li><a href="https://cursos.dankicode.com/empresa">A Empresa</a></li>
+<li><a href="https://cursos.dankicode.com/certificados">Certificados</a></li>
+<li><a href="https://cursos.dankicode.com/loja">Loja</a></li>
+<li><a href="http://blog.dankicode.com">Blog</a></li>
+<li><a href="https://cursos.dankicode.com/forum">Fórum</a></li>
+
+</ul>
+</nav>
+<div class="info-user-btn">
+<a class="btn1 campus_btn" href="https://cursos.dankicode.com/campus">Campus</a>
+<a class="btn2" href="https://cursos.dankicode.com/conta">Minha Conta</a>
+<a class="sair-btn" href="https://cursos.dankicode.com/?loggout">Sair</a>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</header>
+<div class="header-mobile">
+<div class="center">
+<div class="logo-mobile">
+<a href="https://cursos.dankicode.com/"></a>
+</div>
+<div class="icon-mobile-menu"></div>
+<div class="clear"></div>
+</div>
+</div>
+<nav class="menu-mobile">
+<ul>
+<li><a href="https://cursos.dankicode.com/home">Home</a></li>
+<li><a href="https://cursos.dankicode.com/empresa">A Empresa</a></li>
+<li><a href="https://cursos.dankicode.com/loja">Loja</a></li>
+<li><a href="http://blog.dankicode.com">Blog</a></li>
+<li><a href="https://cursos.dankicode.com/forum">Fórum</a></li>
+
+<li><a href="https://cursos.dankicode.com/certificados">Certificados</a></li>
+</ul>
+</nav>
+<section class="bg-home">
+<h2>Aprenda sobre</h2>
+<input type="text" name="auto-texto" value="" />
+<h2>Em Cursos Completos</h2>
+<a class="btn2" href="https://cursos.dankicode.com/registrar">MATRICULE-SE GRÁTIS</a>
+</section>
+<section class="diferenciais">
+<div class="center">
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/icon_user.png');" class="circle-diferenciais"></div>
+<p>Aprenda com quem está no mercado</p>
+</div>
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/icon_folder.png');" class="circle-diferenciais"></div>
+<p>Aulas objetivas e detalhadas</p>
+</div>
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/icon_dolar.png');background-size: 28px 62px;" class="circle-diferenciais"></div>
+<p>Preço Acessível,<br>com cursos completos</p>
+</div>
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/icon_media.png');" class="circle-diferenciais"></div>
+<p>Assista em qualquer dispositivo</p>
+</div>
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/icon_certified.png');" class="circle-diferenciais"></div>
+<p>Certificado Profissional</p>
+</div>
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/icon_check.png');" class="circle-diferenciais"></div>
+<p>Acesso Vitalício</p>
+</div>
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/icon_support.png');" class="circle-diferenciais"></div>
+<p>Suporte 1 a 1</p>
+</div>
+<div class="diferenciais-single">
+<div style="background-image:url('https://cursos.dankicode.com/app/Views/public/images/home/video_icon.png');" class="circle-diferenciais"></div>
+<p>EAD Exclusiva</p>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+<section id="loja" class="sect1">
+<h2>Os melhores cursos para você</h2>
+<p>Torne-se um desenvolvedor completo e aprenda com quem está no mercado</p>
+</section>
+<section class="vitrine">
+<div class="center">
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-front-end-completo"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/599083332ff1a.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Webmaster Front-End <b>Completo</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda e domine absolutamente tudo sobre front-end e web design em apenas um curso! Tudo que você precisa para se tornar um(a) Desenvolvedor(a) Front-End. São mais de 600 aulas, 35 projetos práticos e 300 exercícios.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-front-end-completo">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-desenvolvimento-web-completo"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/591f197b0f718.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Desenvolvimento Web <b>Completo</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda desenvolvimento web de alta performance com o curso mais completo do mercado! Aprenda e domine a criação de sistemas web e websites dinâmicos em mais de 500 aulas e 50 projetos práticos.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-desenvolvimento-web-completo">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-web-design-express"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/59a9c43ddd84a.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Web Design <b>Express</b></p>
+</div>
+<div class="info-curso">
+<p>Este é um curso completo de Web Design. Perfeito para aqueles que querem aprender o web design de alta performance e criar seus próprios websites. Aprenda HTML5, CSS3, SEO, Photoshop, UI/UX e muito mais!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-web-design-express">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/php-jedai"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5ac02246aef62.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso PHP <b>Jedai</b></p>
+</div>
+<div class="info-curso">
+<p>Este é um curso completo de PHP. Ensinamos do zero ao nível profissional tudo sobre a linguagem. Em mais de 200 aulas e diversos exercícios e projetos práticos, você vai aprender PHP e se tornar um expert!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/php-jedai">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-dev-games"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5dc64f37c83bd.jpeg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Desenvolvimento de Games <b>Completo</b></p>
+</div>
+<div class="info-curso">
+<p>Já sonhou em aprender a criar e desenvolver seus próprios jogos? Este curso vai lhe ensinar como criar qualquer jogo e tudo isso utilizando a linguagem de programação Java. O curso é um diferencial no mercado pois ensina a programar em Java junto com a criação de jogos completos! E o melhor de tudo, você vai aprender como fazer seu jogo rodar em qualquer plataforma.<br />
+Com a nova atualização do curso você irá aprender engines como: Unity, Unreal, Game Maker e Godot.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-dev-games">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/ingles-para-programadores"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5afa367468720.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso de <b>Inglês para Programadores</b></p>
+</div>
+<div class="info-curso">
+<p>O curso perfeito para programadores que desejam dominar o inglês e serem mais produtivos durante o desenvolvimento.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/ingles-para-programadores">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-wordpress-completo"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5afa36d9be05c.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso WordPress <b>Completo</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda WordPress e domine este CMS incrível. Crie sites de uma forma ágil com um gestor de conteúdo completo e intuitivo!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-wordpress-completo">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-logica-programacao"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5c782f2ad62ee.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso de <b>Lógica de Programação</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda tudo sobre lógica de programação com diversas linguagens do mercado e exercícios práticos!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-logica-programacao">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/produtividade-programadores"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5d27e027970d6.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso <b>Produtividade para Programadores</b></p>
+</div>
+<div class="info-curso">
+<p>As mesmas técnicas de aprendizagem e produtividade, que utilizamos na Danki Code, em um curso completo para você!<br />
+Vídeoaulas, artigos e muito mais! Este é um curso excelente para quem quer ter uma vida saudável como programador e sempre estar com energia para produzir ao máximo!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/produtividade-programadores">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-design-games"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5dbb1e5b0e04f.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso <b>Design de Games</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda tudo sobre design de games. Como criar as melhores artes para o seu jogo!<br>
+Flat Design, Pixel art e muito mais!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-design-games">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/agencia-web"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5ce342c24ab4c.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso <b>Agência Web de Sucesso</b></p>
+</div>
+<div class="info-curso">
+<p>Que tal ter uma agência própria de web e marketing digital? Saber exatamente como conseguir clientes e ter uma renda recorrente vivendo do que ama?<br />
+Todos os passos, modelos de contrato e tudo que faço na Danki Code estão neste treinamento inédito. O curso é 100% em vídeo aulas junto com todos os materiais para download.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/agencia-web">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-infra-web"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5e5d12c75ba6c.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Infraestrutura <b>Web</b></p>
+</div>
+<div class="info-curso">
+<p>Domine os servidores web e aprenda como ter aplicações de alta performance. Neste treinamento você irá aprender sobre servidores Linux, como configurar seu próprio servidor e muito mais!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-infra-web">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="javascript:void(0)"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5e9e25971f39a.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Desenvolvimento de <b>Aplicativos</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda neste curso completo como criar aplicativos nativos para Android e iOS.<br />
+Você irá aprender com as tecnologias mais poderosas 100% na prática.<br />
+Criando + de 10 apps e ainda publicando nas famosas lojas AppStore e Google Play</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a style="background: #dcd4e5;" href="javascript:void(0)">EM GRAVAÇÃO</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/unity-zero-profissional"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5ec406acaf250.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Unity do Zero ao <b>Profissional</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda desenvolvimento de jogos, de uma maneira prática e direto ao ponto! Domine o C# e uma das maiores engines da atualidade. Crie diversos jogos em 2d e 3d.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/unity-zero-profissional">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/curso-design-web"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5e29c3b4ebe1b.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Design para <b>Web</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda em um curso completo como criar qualquer layout e interface para Web!<br />
+Curso inédito no mercado e com valor promocional.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/curso-design-web">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/fb-curso"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5aedd696c5367.jpeg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Facebook para <b>Negócios</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda como utilizar o Facebook e todos os seus recursos para vender todos os dias (e muito)! Curso completo com mais de 100 aulas ensinando, passo a passo, como você pode deixar o Facebook trabalhando para o seu negócio de forma automática e 100% otimizada.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/fb-curso">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/viver-negocio-online"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5c1543c71f6cc.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Viver de <b>Negócio Online</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda como criar um negócio online altamente lucrativo e escalável. Curso com mais de 200 aulas que irão lhe ensinar como criar diversos produtos digitais em tempo recorde e como utilizar o marketing digital para vende-los todos os dias!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/viver-negocio-online">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/dominando-email-marketing"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5afa372027717.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso Dominando <b>E-mail Marketing</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda tudo sobre e-mail marketing neste curso e como utiliza-lo para alavancar as vendas do seu negócio. Construção de listas, Captura de leads, Automação e muito mais!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/dominando-email-marketing">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/instagram-para-negocios"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5d27ee1a667d2.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso <b>Instagram para Negócios</b></p>
+</div>
+<div class="info-curso">
+<p>Aprenda como utilizar o Instagram e todos os seus recursos para vender todos os dias (e muito)! Curso completo com mais de 100 aulas ensinando, passo a passo, como você pode deixar o Instagram trabalhando para o seu negócio de forma automática e 100% otimizada.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/instagram-para-negocios">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/vdy"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5e9e24f720c19.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Viver de <b>Youtube</b></p>
+</div>
+<div class="info-curso">
+<p>O maior treinamento para quem quer Viver de Youtube!<br />
+Neste curso incrível você vai aprender como criar seu canal, ganhar inscritos, gerar receita e muito mais. Você vai aprender tudo isso com o especialista Peter Jordan. Dono do canal Ei Nerd (9 milhões de inscritos) e diversos outros canais de sucesso.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/vdy">Conheça o Curso</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="javascript:void(0)"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5efa7cb925dcc.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Curso <b>Jornada Indie</b></p>
+</div>
+<div class="info-curso">
+<p>Neste incrível curso sobre desenvolvimento de jogos você irá aprender como se posicionar no mercado sendo um desenvolvedor independente. Além disso aprender a fundo como planejar um jogo de sucesso antes mesmo de iniciar a criação do mesmo e muito mais.<br />
+Este é o treinamento para quem quer levar a carreira de desenvolvedor de jogos para o próximo nível.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a style="background: #dcd4e5;" href="javascript:void(0)">EM GRAVAÇÃO</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://pacotefullstack.com/completo"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5bfed9949291d.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Pacote <b>Full-Stack</b></p>
+</div>
+<div class="info-curso">
+<p>O pacote full-stack é para aqueles que desejam se tornarem desenvolvedores(as) full-stack. Ou seja, que domina as mais poderosas tecnologias atuais e é capaz de criar qualquer website, sistema e aplicativo. Neste pacote você leva todos os cursos de desenvolvimento e programação web da Danki Code, por um valor especial!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://pacotefullstack.com/completo">Conheça o Pacote</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/pacote-programador-web"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5dad16c9ab786.png" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Pacote <b>Programador Web</b></p>
+</div>
+<div class="info-curso">
+<p>Deseja se tornar um(a) programador(a) web? Então este é o pacote perfeito para você! Você pode levar os nossos cursos de PHP e Web Design por um valor promocional e aprender tudo sobre programação web. Comece a criar seus sites e sistemas ainda hoje!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/pacote-programador-web">Conheça o Pacote</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/combo-master"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5d8155add445a.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Combo <b>Master</b></p>
+</div>
+<div class="info-curso">
+<p>O combo "supremo" da Danki Code! Com nossos melhores treinamentos e pacotes por uma condição exclusiva.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/combo-master">Conheça o Pacote</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/pacote-game-dev"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5ddec06fbfddb.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Pacote Game <b>Developer</b></p>
+</div>
+<div class="info-curso">
+<p>Que tal levar os dois cursos de games da Danki Code?<br />
+Desenvolvimento de Games + Design para Games. O combo perfeito para além de você conseguir criar qualquer jogo, ainda saber como criar suas próprias artes e ainda elaborar todo o design!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/pacote-game-dev">Conheça o Pacote</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/ninja-developer"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5e7832917ee88.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Pacote Ninja Developer</p>
+</div>
+<div class="info-curso">
+<p>Juntamos os dois maiores cursos do Brasil: Front-End e Design para Web.
+Criamos este pacote super especial e com valor promocional, para quem desejar criar qualquer website e além disso ser capaz de desenvolver seus próprios layouts através de softwares gráficos.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/ninja-developer">Conheça o Pacote</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://pacotefullstack.com"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5aca401ea557b.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>E-Book Full-Stack <b>(GRÁTIS)</b></p>
+</div>
+<div class="info-curso">
+<p>E-Book completo com mais de 40 páginas de puro conteúdo, lhe ensinando tudo sobre as principais e mais poderosas tecnologias do Universo Full-Stack.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://pacotefullstack.com">Conheça o Produto</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/ebook-facebook"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5afb1cd4013fc.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Ebook Facebook Para Negócios <b>(GRÁTIS)</b></p>
+</div>
+<div class="info-curso">
+<p>E-Book para você conhecer na prática todos os recursos da rede social e como pode ajudar o seu negócio a gerar vendas e atrair novos clientes todos os dias!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div> 
+</div>
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/ebook-facebook">Conheça o Produto</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://ebook.viverdenegocioonline.com.br"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5c645996f03b4.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Ebook Viver de Negócio Online <b>(GRÁTIS)</b></p>
+</div>
+<div class="info-curso">
+<p>O E-book perfeito para quem deseja começar um negócio 100% online altamente lucrativo e automatizado.</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://ebook.viverdenegocioonline.com.br">Conheça o Produto</a>
+</div>
+</div>
+<div class="box-curso-single">
+<div class="box-curso-wraper">
+<a href="https://cursos.dankicode.com/ebook-games"><img src="https://cursos.dankicode.com/app/Views/public/images/uploads/cursos/5c82beb14ea82.jpg" /></a>
+<div class="wraper-info-curso">
+<div class="nome-curso">
+<p>Ebook Desenvolvimento de Games <b>(GRÁTIS)</b></p>
+</div>
+<div class="info-curso">
+<p>O E-book perfeito para quem deseja iniciar no mundo de desenvolvimento de games!</p>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="btn-detalhes-curso">
+<a href="https://cursos.dankicode.com/ebook-games">Conheça o Produto</a>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+
+</section>
+<section class="depoimentos-pessoas">
+<div class="center">
+<div class="box-depoimento-single">
+<div class="box-depoimento-bg">
+<quote>
+“Surpreendentemente estimulante, profundo e completo. Um dos melhores cursos que já fiz online! Qualidade impressionante, tanto na didática como a qualidade dos vídeos.”
+</quote>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+<p><b>Lucas Santana</b></p>
+</div>
+
+</div>
+<div class="box-depoimento-single">
+<div class="box-depoimento-bg">
+<quote>
+"Foi a melhor forma de estudo que encontrei, simples de alta qualidade, com cursos objetivos, tem ajudado muito minha carreira. Os cursos são simples e não simplórios."
+</quote>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+<p><b>Rodrigo Yurei - Agência Spark</b></p>
+</div>
+
+</div>
+<div class="box-depoimento-single">
+<div class="box-depoimento-bg">
+<quote>
+"Um profissional ímpar, com uma visibilidade incrível de linguagens e uma sensibilidade importante aos detalhes de usabilidade, interface e experiência do usuário. Um excelente parceiro."
+</quote>
+<div class="stars">
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="star"></div>
+<div class="clear"></div>
+</div>
+<p><b>Fábio Freitas</b></p>
+</div>
+
+</div>
+<div class="clear"></div>
+</div>
+</section>
+<footer class="footer1">
+<div class="center">
+<div class="footer-section">
+<h2>Sobre a Danki Code</h2>
+<p style="text-align: left;">A Danki Code é uma empresa de desenvolvimento web e também atua na área de cursos online voltados também ao assunto.
+Sediada em Florianópolis, desenvolve soluções inovadoras para empresas e também forma profissionais capacitados e completos para a área de TI.
+<p style="text-align: left;">Plataforma Desenvolvida com <i class="fa fa-heart"></i> por Danki Code.
+<br />
+<br />
+É proibida a reprodução ou distribuição do conteúdo publicado aqui.</p>
+</p>
+<p style="text-align: left;"><a style="color: white; font-size: 20px; padding:0 10px;" target="_blank" href="https://instagram.com/dankicodeoficial"><i class="fa fa-instagram"></i></a> <a style="color: white; font-size: 20px; padding:0 10px;" target="_blank" href="https://youtube.com/dankicode"><i class="fa fa-youtube"></i></a> <a style="color: white; font-size: 20px; padding:0 10px;" target="_blank" href="https://facebook.com/dankicode"><i class="fa fa-facebook"></i></a></p>
+</div>
+<div class="footer-section">
+<h2>Atendimento ao cliente</h2>
+<div class="footer-ww">
+<div style="background-image: url('https://cursos.dankicode.com/app/Views/public/images/footer/icon_mail.png');height:15px;" class="icon-footer"></div>
+<p><b>E-mail: </b><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="620316070c060b0f070c160d2206030c090b010d06074c010d0f">[email&#160;protected]</a></p>
+<div class="clear"></div>
+</div>
+<div class="footer-ww">
+<div style="background-image: url('https://cursos.dankicode.com/app/Views/public/images/footer/icon_tel.png');" class="icon-footer"></div>
+<p><b>Telefone/WhatsApp: </b>(48) 99807-5162</p>
+<div class="clear"></div>
+</div>
+<div class="footer-ww">
+<div style="background-image: url('https://cursos.dankicode.com/app/Views/public/images/footer/icon_clock.png');background-size: 100% 100%;" class="icon-footer"></div>
+<p>De segunda a domingo</p>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+<footer class="footer2">
+<div class="center">
+<div class="left-footer2">
+<a target="_blank" href="http://www.dankicode.com"><img src="https://cursos.dankicode.com/app/Views/public/images/danki_logo.png" /></a>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cursos.dankicode.com/app/Views/public/js/jquery.js"></script>
+<script src="https://cursos.dankicode.com/app/Views/public/js/jquery.ajaxform.js"></script>
+<script src="https://cursos.dankicode.com/app/Views/public/js/constants.js"></script>
+<script src="https://cursos.dankicode.com/app/Views/public/js/menu_mobile.js"></script>
+<script src="https://cursos.dankicode.com/app/Views/public/js/header.js"></script>
+<script src="https://cursos.dankicode.com/app/Views/public/js/autoscroll.js"></script>
+<script src="https://cursos.dankicode.com/app/Views/public/js/autotype.js"></script>
+<script type="module">
+import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+const el = document.createElement('pwa-update');
+document.body.appendChild(el);
+</script>
+</body>
+</html>
